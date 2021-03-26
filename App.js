@@ -95,7 +95,6 @@ const styles = StyleSheet.create({
     color: 'white',
   },
   subView: {
-    display: 'none',
     position: 'absolute',
     bottom: 0,
     left: 0,
